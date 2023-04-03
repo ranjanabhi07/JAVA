@@ -6,4 +6,4 @@ This file contais basic problems of java and in future it will contain DSA also
 
 2) patterns_in_java :- it contains basic and some advance patterns questions solutions 
 
-3) FunctionsMethods :- it contains basic implementation of functions through questions and it's solution's.
+3) FunctionsMethods :- it contains basic implementation of functions through questions and  it's solution's.
