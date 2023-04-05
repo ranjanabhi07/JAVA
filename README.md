@@ -8,4 +8,4 @@ This file contais basic problems of java and in future it will contain DSA also
 
 3) FunctionsMethods :- it contains basic implementation of functions through questions and it's solution's.
 
-4) Arrays :- now it just contains basic array problems
+4) Arrays :- now it just contains basic array problems .
