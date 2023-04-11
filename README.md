@@ -8,6 +8,6 @@ This file contais basic problems of java and in future it will contain DSA also
 
 3) FunctionsMethods :- it contains basic implementation of functions through questions and it's solution's.
 
-4) Arrays :- it contains basic implementation of 1D array and 2D array questions and it's solution's .
+4) Arrays :- it contains basic implementation of 1D array and 2D array questions and it's solution's.
 
-5) Strings :- it contains basic implementation of strings and some functions which will be helpfull while solving advance problems .
+5) Strings :- it contains basic implementation of strings and some functions which will be helpfull while solving advance problems.
