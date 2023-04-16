@@ -14,6 +14,6 @@ This file contais basic problems of java and in future it will contain DSA also
 
 6) Operators :-
 
-
+7) variables and data type :-
 
 
