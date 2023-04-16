@@ -13,9 +13,9 @@ This file contais basic problems of java and in future it will contain DSA also
 
 5) Strings 🦖  :-  it contains basic implementation of strings and some functions which will be helpfull while solving advance problems .
 
-6) Operators 🦖 :-
+6) Operators 🦖 :-  it contains some basic questions of operators and it's solution as ppt.
 
-7) variables and data type 🦖 :-
+7) variables and data type 🦖 :- 
 
 8) FlowChart And Pseudocode 🦖 :-
 
