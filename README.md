@@ -20,3 +20,5 @@ This file contais basic problems of java and in future it will contain DSA also
 8) FlowChart And Pseudocode 🦖 :- it contains some basic questions of flowChart & pseudocodes and it's solutions as ppt
 
 9) Conditional Ststements 🦖 :- it contains some basic questions of conditional statements and it's solution as ppt
+
+10) Loops 🦖  :- it contains some questions of loops and it's solution as ppt 
