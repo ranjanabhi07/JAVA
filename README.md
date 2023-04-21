@@ -1,5 +1,5 @@
 # JAVA 🚱
-This file contais basic problems of java and in future it will contain DSA also
+This file contais basic problems of java and in future it will also contain DSA 
 
 # Topics that it contains are 📧 :-
 
