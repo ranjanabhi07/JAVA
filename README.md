@@ -29,5 +29,5 @@ This file contais basic problems of java and in future it will also contain DSA
 
 11) functions&methods 🦖 :-
 
-12) ADV Patterns  :- it is same as [ 2) patterns_in_java 🦖 ]
+12) ADV Patterns  :- it is same as :-  [ 2) patterns_in_java 🦖 ] with some changes
  
