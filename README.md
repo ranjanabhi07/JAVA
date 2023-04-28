@@ -20,6 +20,7 @@ This file contais basic problems of java and in future it will also contain DSA
 
 7) variables and data type 🦖 :- it contains some basic questions of variables & dataTypes and it's solution as ppt.
 
+
 8) FlowChart And Pseudocode 🦖 :- it contains some basic questions of flowChart & pseudocodes and it's solutions as ppt
 
 9) Conditional Ststements 🦖 :- it contains some basic questions of conditional statements and it's solution as ppt
