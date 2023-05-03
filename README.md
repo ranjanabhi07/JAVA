@@ -30,7 +30,7 @@ This file contais basic problems of java and  in future it will also contain DSA
 
 11) functions&methods 🦖 :-  it contains some questions of functions and methods and its solution in this file
 
-12) ADV Patterns  🦖 :- it is same as :-  with  some changes
+12) ADV Patterns  🦖 :- it is same as :- 2) patterns 🦖 with  some changes
 
 13) Arrays 🦖 :- it contains some questions and its solutions in ppt file.
  
