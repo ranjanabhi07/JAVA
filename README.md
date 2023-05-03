@@ -28,9 +28,9 @@ This file contais basic problems of java and  in future it will also contain DSA
 10) Loops 🦖  :- it contains some questions of loops and  it's solution as ppt   and for nested loops refer to patterns_in_java for basic to advance
 
 
-11) functions&methods 🦖 :-
+11) functions&methods 🦖 :-  
 
 12) ADV Patterns  :- it is same as :-  [ 2) patterns_in_java 🦖 ] with  some changes
 
-13) Arrays :-
+13) Arrays :- it contains some questions and its solutions in ppt file.
  
