@@ -25,7 +25,7 @@ This file contais basic problems of java and  in future it will also contain DSA
 
 9) Conditional Ststements 🦖 :- it contains some basic questions of conditional statements and it's solution as ppt
 
-10) Loops 🦖 :-  it contains some questions of loops and  it's solution as ppt   and for nested loops refer to patterns_in_java for basic to advance
+10) Loops 🦖 :-   it contains some questions of loops and  it's solution as ppt   and for nested loops refer to patterns_in_java for basic to advance
 
 
 11) functions&methods 🦖 :-  it contains some questions of functions and methods and its solution in this file
