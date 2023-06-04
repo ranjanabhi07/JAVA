@@ -8,11 +8,11 @@ This file contais basic problems of java and in future it will also contain DSA
 
 1) java_start 🦖 :-  it contains basic of java like-variables, dataTypes, iteration, conditional Statements, etc
 
-2) patterns_in_java 🦖 :- it contains basic and some advance patterns questions solutions 
+2) patterns_in_java / ADV Patterns 🦖 :- it contains basic and some advance patterns questions solutions, some changes
 
 3) Functions Methods 🦖  :- it contains basic implementation of functions through questions and it's solution's.
 
-4) Arrays 🦖 :- it contains basic implementation of 1D array and 2D array questions and it's solution's.
+4) Arrays 🦖 :- it contains basic implementation of 1D array and 2D array questions and it's solution's,kadans algorithm.
 
 5) Strings 🦖  :- it contains basic implementation of strings and some functions which will be helpfull while solving advance problems .
 
@@ -30,9 +30,4 @@ This file contais basic problems of java and in future it will also contain DSA
 
 11) functions&methods 🦖 :-  it contains some questions of functions and methods and its solution in this file
 
-12) ADV Patterns 🦖 :- it is same as :- 2) patterns 🦖 with  some changes
-
-13) Arrays 🦖 :- it contains some questions and its solutions in ppt file. ( kadans algorithm )
-
-14) Strings 🦖 :-
  
