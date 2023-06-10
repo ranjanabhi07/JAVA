@@ -28,4 +28,4 @@ This file contais basic problems of java and in future it will also contain DSA
 
 11) functions&methods 🦖 :-  it contains some questions of functions and methods and its solution in this file
 
- 
+12) Sorting_Algorithm 🦖 :- it contains bubble sort, selection sort, insertion sort, counting sort algorithm codes and ppt that contains example questions and its solutions.
