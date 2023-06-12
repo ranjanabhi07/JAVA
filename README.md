@@ -10,7 +10,7 @@ This file contais basic problems of java and in future it will also contain DSA
 
 3) Functions Methods 🦖 :- it contains basic implementation of functions through questions and it's solution's.
 
-4) Arrays 🦖 :- it contains basic implementation of 1D array and 2D array questions and it's solution's,kadans algorithm. 1D array is also linked to the arrays folder in 1D Arrays there are some questions that are linked to the basic as well as to little bit advance problems of array basic use.
+4) Arrays 🦖 :- it contains basic implementation of 1D array and 2D array questions and it's solution's,kadans algorithm. 1D array is also linked to the arrays folder in 1DArrays and 2DArrays there are some questions that are linked to the basic as well as to little bit advance problems of array basic use.
 
 5) Strings 🦖  :- it contains basic implementation of strings and some functions which will be helpfull while solving advance problems .
 
