@@ -1,7 +1,8 @@
 # JAVA 🚱 
 a)OOP's notes:- 
 
-This file contains basic problems of Java and in the future, it will also contain DSA  
+This file contains basic problems of Java and in the future, it will also contain DSA
+
 # Topics that it contains are  📧  :-
 
 1) java_start 🦖 :- it contains basic of java like-variables, dataTypes, iteration, conditional Statements, etc
