@@ -28,3 +28,7 @@ This file contains basic problems of Java and in the future, it will also contai
 11) functions&methods 🦖 :-  it contains some questions about functions and methods and its solution in this file
 
 12) Sorting_Algorithm 🦖 :- it contains bubble sort, selection sort, insertion sort, counting sort algorithm codes, and a ppt that has example questions and solutions.
+
+13) Recursion :- solved questions.
+
+14) Sorting with recursion :- merge sort, quick sort, etc.
