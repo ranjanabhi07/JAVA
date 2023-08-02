@@ -24,12 +24,14 @@ This file contains basic problems of Java and in the future, it will also contai
 
 9) Conditional Statements 🦖 :- it contains some fundamental questions of conditional statements and it's the solution as ppt
 
-10) Loops 🦖 :-  it contains some questions about loops and  it's solutions as ppt   and for nested loops refer to patterns_in_java for basic to advance
+10) Loops 🦖 :-  it contains some questions about loops and their solutions as ppt   and for nested loops refer to patterns_in_java for basic to advance
 
 11) functions&methods 🦖 :-  it contains some questions about functions and methods and its solution in this file
 
-12) Sorting_Algorithm 🦖 :- it contains bubble sort, selection sort, insertion sort, counting sort algorithm codes, and a ppt that has example questions and solutions.
+12) Sorting_Algorithm 🦖 :- it contains bubble sort, selection sort, insertion sort, counting sort algorithm codes, and a ppt with example questions and solutions.
 
-13) Recursion :- solved questions.
+13) Recursion:- solved questions.
 
-14) Sorting with recursion :- merge sort, quick sort, etc.
+14) Sorting with recursion:- merge sort, quick sort, etc.
+
+15) BackTracking :-
