@@ -30,8 +30,8 @@ This file contains basic problems of Java and in the future, it will also contai
 
 12) Sorting_Algorithm 🦖 :- it contains bubble sort, selection sort, insertion sort, counting sort algorithm codes, and a ppt with example questions and solutions.
 
-13) Recursion:- solved questions.
+13) Recursion 🦖 :- solved questions.
 
-14) Sorting with recursion:- merge sort, quick sort, etc.
+14) Sorting with recursion 🦖 :- merge sort, quick sort, etc.
 
-15) BackTracking:-  NQueens problem, Sudoku Solver problem, etc.
+15) BackTracking 🦖 :-  NQueens problem, Sudoku Solver problem, etc.
