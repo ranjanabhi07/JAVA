@@ -99,5 +99,6 @@ public class Main {
         System.out.println("quick sort: ");
         quickSort(arr, 0, arr.length-1);
         print(arr);
+        sc.close();;
     }
 }
