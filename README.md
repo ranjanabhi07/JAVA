@@ -35,3 +35,10 @@ This file contains basic problems of Java and in the future, it will also contai
 14) Sorting with recursion 🦖 :- merge sort, quick sort, etc.
 
 15) BackTracking 🦖 :-  NQueens problem, Sudoku Solver problem, etc.
+
+16) Bit Manipulation 🦖 :- contains questions and its solutions.
+
+17) OOPs 🦖 :- contains questions and solutions.
+
+18) Time Complexity 🦖 :- contains questions and it's solutions.
+
