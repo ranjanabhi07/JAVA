@@ -40,5 +40,7 @@ This file contains basic problems of Java and in the future, it will also contai
 
 17) OOPs 🦖 :- contains questions and solutions.
 
-18) Time Complexity 🦖 :- contains questions and it's solutions.
+18) Time Complexity 🦖 :- contains questions and their solutions.
+
+19) ArrayList 🦖 :- contains solved questions and some questions.
 
