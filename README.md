@@ -44,3 +44,5 @@ This file contains basic problems of Java and in the future, it will also contai
 
 19) ArrayList 🦖 :- contains solved questions and some questions.
 
+20) LinkedList 🦖 :-
+
