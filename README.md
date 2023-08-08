@@ -8,7 +8,7 @@ This file contains basic problems of Java and in the future, it will also contai
 
 1) java_start 🦖 :- it contains basic of java like-variables, dataTypes, iteration, conditional Statements, etc
 
-2) patterns_in_java / ADV Patterns 🦖 :- it contains basic and some advanced patterns questions solutions, some changes
+2) patterns_in_java/ADV Patterns 🦖 :- it contains basic and some advanced patterns questions solutions, some changes
 
 3) Functions Methods 🦖 :- it contains a basic implementation of functions through questions and their solutions.
 
