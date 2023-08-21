@@ -46,3 +46,5 @@ This file contains basic problems of Java and in the future, it will also contai
 
 20) LinkedList 🦖 :- contains solved question and some questions with sol.
 
+21) Stack 🦖 :- contains solved questions solutions and some questions and there sol in ppt.
+
