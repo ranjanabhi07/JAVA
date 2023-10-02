@@ -48,3 +48,4 @@ This file contains basic problems of Java and in the future, it will also contai
 
 21) Stack 🦖 :- contains solved questions solutions and some questions and there sol in ppt.
 
+22) Queue 🦖 :-
