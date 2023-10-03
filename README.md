@@ -50,5 +50,5 @@ This file contains basic problems of Java and in the future, it will also contai
 
 22) Queue 🦖 :- contains solved questions and there solutions.
 
-23) 
+23) Greedy Algorithms 🦖 :-
 
