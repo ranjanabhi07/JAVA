@@ -52,5 +52,5 @@ This file contains basic problems of Java and in the future, it will also contai
 
 23) Greedy Algorithms 🦖 :- contains solved questions solutions and some questions and there sol.
 
-24) Binary Tree 🦖 :-
+24) Binary Tree 🦖 :- this folder have some basics questions and its solutions
 
